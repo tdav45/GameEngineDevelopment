@@ -1,4 +1,4 @@
-A simple 2d game engine.
+A simple 2d game engine made with SDL2
 
 
 Controls:
